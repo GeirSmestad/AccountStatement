@@ -12,10 +12,11 @@ import './App.css';
     -Redux på tilstand
     -RxJS
     -Tester
+    -Mulighet for data fra mock-tjeneste
     (Kanskje gjøre disse to i et senere eksperiment)
 */
 
-const apiUrl = 'http://skbank.azurewebsites.net/api/transaksjon';
+const transactionsUrl = 'http://skbank.azurewebsites.net/api/transaksjon';
 const categoriesUrl = 'http://skbank.azurewebsites.net/api/kategori';
 
 function sumIngoingTransactionsInSelectedCategory(transactions, categoryFilter) {
@@ -79,7 +80,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch(apiUrl)
+    fetch(transactionsUrl)
       .then(response => { return response.json() })
       .then(json => { 
         this.setState({
