@@ -1,0 +1,139 @@
+{
+"kontonavn": "Brukskonto",
+"saldo": 23254.9,
+"transaksjoner": [
+{
+"transaksjonsID": 0,
+"kategoriID": 3,
+"dato": "2017-03-01T00:00:00",
+"beloep": 20382,
+"beskrivelse": "Lønn fra ACME AS"
+},
+{
+"transaksjonsID": 1,
+"kategoriID": 2,
+"dato": "2017-03-02T00:00:00",
+"beloep": -300,
+"beskrivelse": "Uttak minibank Oasen"
+},
+{
+"transaksjonsID": 2,
+"kategoriID": 4,
+"dato": "2017-03-02T00:00:00",
+"beloep": -722.2,
+"beskrivelse": "Meny Oasen"
+},
+{
+"transaksjonsID": 3,
+"kategoriID": 7,
+"dato": "2017-03-03T00:00:00",
+"beloep": -300,
+"beskrivelse": "Overføring mellom egne konto"
+},
+{
+"transaksjonsID": 4,
+"kategoriID": 8,
+"dato": "2017-03-04T00:00:00",
+"beloep": -85.99,
+"beskrivelse": "McDonalds Oasen"
+},
+{
+"transaksjonsID": 5,
+"kategoriID": 6,
+"dato": "2017-03-05T00:00:00",
+"beloep": -3082,
+"beskrivelse": "Fjordkraft"
+},
+{
+"transaksjonsID": 6,
+"kategoriID": 8,
+"dato": "2017-03-06T00:00:00",
+"beloep": -438.37,
+"beskrivelse": "Egon Lagunen"
+},
+{
+"transaksjonsID": 7,
+"kategoriID": 6,
+"dato": "2017-03-06T00:00:00",
+"beloep": -1984,
+"beskrivelse": "Canal Digital"
+},
+{
+"transaksjonsID": 8,
+"kategoriID": 6,
+"dato": "2017-03-08T00:00:00",
+"beloep": -299,
+"beskrivelse": "Telenor"
+},
+{
+"transaksjonsID": 9,
+"kategoriID": 5,
+"dato": "2017-03-08T00:00:00",
+"beloep": -2941.58,
+"beskrivelse": "Komplett.no"
+},
+{
+"transaksjonsID": 10,
+"kategoriID": 7,
+"dato": "2017-03-09T00:00:00",
+"beloep": 500,
+"beskrivelse": "Overføring mellom egne konto"
+},
+{
+"transaksjonsID": 11,
+"kategoriID": 4,
+"dato": "2017-03-10T00:00:00",
+"beloep": -132,
+"beskrivelse": "Bunnpris Smiberget"
+},
+{
+"transaksjonsID": 12,
+"kategoriID": 9,
+"dato": "2017-03-10T00:00:00",
+"beloep": -694,
+"beskrivelse": "Skyss"
+},
+{
+"transaksjonsID": 13,
+"kategoriID": 4,
+"dato": "2017-03-10T00:00:00",
+"beloep": -342,
+"beskrivelse": "Coop Extra Bønes"
+},
+{
+"transaksjonsID": 14,
+"kategoriID": 6,
+"dato": "2017-03-12T00:00:00",
+"beloep": -4553,
+"beskrivelse": "Lyshovden Brl"
+},
+{
+"transaksjonsID": 15,
+"kategoriID": 7,
+"dato": "2017-03-14T00:00:00",
+"beloep": 500,
+"beskrivelse": "Overføring mellom egne konto"
+},
+{
+"transaksjonsID": 16,
+"kategoriID": 5,
+"dato": "2017-03-16T00:00:00",
+"beloep": -1135.62,
+"beskrivelse": "Elkjøp Fyllingsdalen"
+},
+{
+"transaksjonsID": 17,
+"kategoriID": 4,
+"dato": "2017-03-16T00:00:00",
+"beloep": -746.12,
+"beskrivelse": "Meny Oasen"
+},
+{
+"transaksjonsID": 18,
+"kategoriID": 9,
+"dato": "2017-03-17T00:00:00",
+"beloep": -492.42,
+"beskrivelse": "Bergen Taxi"
+}
+]
+}

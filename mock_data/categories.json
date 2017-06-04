@@ -1,0 +1,38 @@
+[
+{
+"kategoriID": 1,
+"beskrivelse": "Innskudd"
+},
+{
+"kategoriID": 2,
+"beskrivelse": "Kontantuttak"
+},
+{
+"kategoriID": 3,
+"beskrivelse": "Lønn"
+},
+{
+"kategoriID": 4,
+"beskrivelse": "Dagligvarer"
+},
+{
+"kategoriID": 5,
+"beskrivelse": "Elektronikk"
+},
+{
+"kategoriID": 6,
+"beskrivelse": "Boutgifter"
+},
+{
+"kategoriID": 7,
+"beskrivelse": "Overføring"
+},
+{
+"kategoriID": 8,
+"beskrivelse": "Kafé/restaurant"
+},
+{
+"kategoriID": 9,
+"beskrivelse": "Transport"
+}
+]
