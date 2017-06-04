@@ -5,13 +5,13 @@ import './App.css';
 
   -Styling
   -Definere hvilke properties som kreves
-  -Trekke ut lange/monotone kodeblokker i hjelpeklasser
   -Namespaces/hjelpeklasser for sumIngoing/sumOutgoing
   -Flytte mine komponenter til egne mapper/filer
 
   Hvis man skal bli fancy:
     -Redux på tilstand
     -RxJS
+    -Tester
     (Kanskje gjøre disse to i et senere eksperiment)
 */
 
